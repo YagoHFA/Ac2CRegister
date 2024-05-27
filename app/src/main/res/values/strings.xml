@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="salvar">Salvar</string>
+    <string name="uf">UF</string>
+    <string name="cidade">Cidade</string>
+    <string name="bairro">Bairro</string>
+    <string name="complemento">Complemento</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="cep">CEP</string>
+    <string name="nome">Nome</string>
+    <string name="ra">RA</string>
+    <string name="ra_">RA:</string>
+    <string name="nome_">Nome:</string>
+    <string name="endere_o">Endereço:</string>
+    <string name="ver_alunos">Ver Alunos</string>
+    <string name="cidade_">Cidade:</string>
+    <string name="uf_">UF:</string>
+</resources>
